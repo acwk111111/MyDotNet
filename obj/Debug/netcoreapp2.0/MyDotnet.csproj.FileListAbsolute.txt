@@ -1,0 +1,11 @@
+C:\Users\e38376\Downloads\Ex_Files_Learning_Visual_Studio_Code\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\Ch01\01_05\Begin\SampleCode\Zen\MyDotnet\bin\Debug\netcoreapp2.0\MyDotnet.deps.json
+C:\Users\e38376\Downloads\Ex_Files_Learning_Visual_Studio_Code\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\Ch01\01_05\Begin\SampleCode\Zen\MyDotnet\bin\Debug\netcoreapp2.0\MyDotnet.runtimeconfig.json
+C:\Users\e38376\Downloads\Ex_Files_Learning_Visual_Studio_Code\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\Ch01\01_05\Begin\SampleCode\Zen\MyDotnet\bin\Debug\netcoreapp2.0\MyDotnet.runtimeconfig.dev.json
+C:\Users\e38376\Downloads\Ex_Files_Learning_Visual_Studio_Code\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\Ch01\01_05\Begin\SampleCode\Zen\MyDotnet\bin\Debug\netcoreapp2.0\MyDotnet.dll
+C:\Users\e38376\Downloads\Ex_Files_Learning_Visual_Studio_Code\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\Ch01\01_05\Begin\SampleCode\Zen\MyDotnet\bin\Debug\netcoreapp2.0\MyDotnet.pdb
+C:\Users\e38376\Downloads\Ex_Files_Learning_Visual_Studio_Code\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\Ch01\01_05\Begin\SampleCode\Zen\MyDotnet\obj\Debug\netcoreapp2.0\MyDotnet.csprojAssemblyReference.cache
+C:\Users\e38376\Downloads\Ex_Files_Learning_Visual_Studio_Code\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\Ch01\01_05\Begin\SampleCode\Zen\MyDotnet\obj\Debug\netcoreapp2.0\MyDotnet.csproj.CoreCompileInputs.cache
+C:\Users\e38376\Downloads\Ex_Files_Learning_Visual_Studio_Code\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\Ch01\01_05\Begin\SampleCode\Zen\MyDotnet\obj\Debug\netcoreapp2.0\MyDotnet.AssemblyInfoInputs.cache
+C:\Users\e38376\Downloads\Ex_Files_Learning_Visual_Studio_Code\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\Ch01\01_05\Begin\SampleCode\Zen\MyDotnet\obj\Debug\netcoreapp2.0\MyDotnet.AssemblyInfo.cs
+C:\Users\e38376\Downloads\Ex_Files_Learning_Visual_Studio_Code\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\Ch01\01_05\Begin\SampleCode\Zen\MyDotnet\obj\Debug\netcoreapp2.0\MyDotnet.dll
+C:\Users\e38376\Downloads\Ex_Files_Learning_Visual_Studio_Code\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\Ch01\01_05\Begin\SampleCode\Zen\MyDotnet\obj\Debug\netcoreapp2.0\MyDotnet.pdb
